@@ -8,7 +8,7 @@ class Database:
         self.config = {
             "host": "localhost",
             "user": "root",
-            "password": "krono",
+            "password": "",
             "database": "world"
         }
 
